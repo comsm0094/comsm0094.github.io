@@ -1,0 +1,146 @@
+
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<font face="verdana, Sans-serif">
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.51 [en] (X11; I; OSF1 V4.0 alpha) [Netscape]">
+   <title>COMSM0094
+</title>
+</head>
+
+<body  bgcolor=white link="slategrey" vlink="darkslategrey" alink="darkslategrey">
+
+  <table>
+    <tbody>
+      <tr>
+	<td bgcolor="slategrey" width="30">&nbsp;</td>
+	
+	<td bgcolor="darkslategrey" width="1">&nbsp;</td>
+	<td bgcolor=white width="10">&nbsp;</td>
+	
+	<td width="15"> 
+	<td>
+	  
+	  <h1 style="color: darkslategrey">COMSM0094</h1><p>
+	    
+	    <h2 style="color: black">Week 1 - CH - introduction to the brain</h2>
+	    <ul>
+	      <li><b>notes</b>: Neurons and Action Potentials. <a href="https://github.com/comsm0094/2021_22/blob/master/01_Introduction/01.1_neurons.pdf">01.1_neurons.pdf</a></li>
+	      <li><b>lecture</b>: Neurons and Action Potentials. <a href="https://web.microsoftstream.com/video/0c223a16-9a06-4ae2-9dd3-77d98b599acf">streams lecture 1</a></li>
+	      <li><b>notes</b>: Synapses. <a href="https://github.com/comsm0094/2021_22/blob/master/01_Introduction/01.2_synapses.pdf">01.2_synapses.pdf</a></li>
+	      <li><b>lecture</b>: Synapses. <a href="https://web.microsoftstream.com/video/323f51e3-22ae-42c4-9078-6b6c15be0c56">streams lecture 2</a></li>
+	      <li><b>notes</b>: Types. <a href="https://github.com/comsm0094/2021_22/blob/master/01_Introduction/01.3_types.pdf">01.3_types.pdf</a></li>
+	      <li><b>notes</b>: Cortex. <a href="https://github.com/comsm0094/2021_22/blob/master/01_Introduction/01.4_cortex.pdf">01.4_cortex.pdf</a></li>
+	      <li><b>notes</b>: Areas. <a href="https://github.com/comsm0094/2021_22/blob/master/01_Introduction/01.5_areas.pdf">01.5_areas.pdf</a></li>
+	    </ul>
+	    <h2 style="color: darkslategrey">Week 2 - CH - modelling neurons 1</h2>
+	    <ul>
+	      <li>Next week will incorporate the material covered in these notes: <a href="https://github.com/conorhoughton/PHPH20007/blob/master/computational_neuroscience_1.pdf">computational_neuroscience_1.pdf</a>.</li>
+	      <li>These two lectures will be useful for understanding next week's material:
+		<ul>
+		  <li>lecture 1: <a href="https://www.youtube.com/watch?v=VrtVHAGjuEs">youtube</a></li>
+		  <li>lecture 2: <a href="https://www.youtube.com/watch?v=VhijgvVwn2g">youtube</a></li>
+		  <li>slides available at <a href="https://github.com/conorhoughton/PHPH20007">github</a></li>
+		</ul>
+	      </li>
+	      <li><b>notes</b>: Computing. <a href="https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.1_computing.pdf">02.1_computing.pdf</a>
+	      <li><b>notes</b>: Mathematics. <a href="https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.2_maths.pdf">02.2_maths.pdf</a>
+	      <li><b>notes</b>: Numerical. <a href="https://github.com/comsm0094/2021_22/blob/master/02_Modelling_Neurons_1/02.3_numerical.pdf">02.3_numerical.pdf</a>	      
+		<li><b>lecture</b>: A numerical programming example. <a href="https://web.microsoftstream.com/video/5074727f-6f05-4780-8794-979774c51024">streams lecture 3</a></li>
+
+	    </ul>
+	    <h2 style="color: darkslategrey">Week 3 - CH - modelling neurons 2</h2>
+	    <ul>
+	      <li> These are the links to notes I provided while I was ill with covid; the notes below are similar to these but have been updated for this unit.
+	      <ul>
+	      <li> Leaky buckets: <a href="https://github.com/conorhoughton/COMS30127/tree/master/2014_15/3_bucket_equation">bucket_equation</a></li>
+	      <li> Integrate and fire: <a href="https://github.com/conorhoughton/COMS30127/tree/master/2014_15/4_integrate_and_fire">integrate_and_fire</a></li>
+	      <li> Hodgkin and Huxley: <a href="https://github.com/conorhoughton/COMS30127/tree/master/2014_15/5_hodgkin_huxley">hodgkin_huxley</a></li>
+	      </ul>
+	      <li><b>notes</b>: Bucket. <a href="https://github.com/comsm0094/2021_22/blob/master/03_Modelling_Neurons_2/03.1_bucket.pdf">03.1_bucket.pdf</a></li>
+	      <li><b>notes</b>: Integrate and Fire. <a href="https://github.com/comsm0094/2021_22/blob/master/03_Modelling_Neurons_2/03.2_i_and_f.pdf">03.2_i_and_f.pdf</a></li>
+	      <li><b>notes</b>: Hodgkin and Huxley <a href="https://github.com/comsm0094/2021_22/blob/master/03_Modelling_Neurons_2/03.3_hodgkin_huxley.pdf">03.3_hodgkin_huxley.pdf</a></li>
+
+		<li><b>lecture</b>: Leaky buckets. <a href="https://web.microsoftstream.com/video/a76e493b-a4ba-4ced-a0a9-0189bdc51cfa">streams lecture 4</a></li>
+	      <li><b>lecture</b>: Integrate and fire. <a href="https://web.microsoftstream.com/video/0870e42c-cfea-46e2-ad21-7a576d663b6e">streams lecture 5</a></li>
+
+	      <li><b>lecture</b>: Hodgkin Huxley. <a href="https://web.microsoftstream.com/video/8eb97094-e730-4fe4-a4f9-14e9b4a52b32">streams lecture 6</a></li>
+	    </ul>
+
+
+	    
+	    <h2 style="color: darkslategrey">Week 4 - CH - modelling synapses</h2>
+	    <ul>
+	      <li><b>notes</b>: Synapses. <a href="https://github.com/comsm0094/2021_22/blob/master/04_Synapses/04.1_synapses.pdf">04.1_synapses.pdf</a></li>
+	      <li><b>lecture</b>: Synapses. <a href="https://web.microsoftstream.com/video/71e58a71-9742-46ab-bcfa-ff631485f644">streams lecture 6</a></li>
+	    </ul>
+	    
+            <h2 style="color: darkslategrey">Week 5 - LA - plasticity</h2>
+	    <ul>
+	      <li>Synaptic plasticity: <a href="https://web.microsoftstream.com/video/827267e7-0840-4483-b003-52ced2b74940">video</a> <a href="https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video3.pdf">slides</a></li>
+	      <li>Short-term plasticity: <a href="https://web.microsoftstream.com/video/e42aada7-93fd-45cf-8c86-6b9d434a7970">video</a> <a href="https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video4.pdf">slides</a></li>
+	      <li>Long-term plasticity: <a href="https://web.microsoftstream.com/video/e0afc098-eca0-4dd8-af95-88ab39506192">video</a> <a href="https://github.com/cs-uob/COMS30017/raw/master/Week_4/slides/Week4-Video5.pdf">slides</a></li>
+	    </ul>	
+		
+ 	    <h2 style="color: darkslategrey">Week 6 - LA - visual system + rate coding</h2>
+	    <ul>
+	      <li>Firing rates and receptive fields: <a href="https://web.microsoftstream.com/video/ba5047ed-24d8-4363-bc26-2222b232c90c">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video1.pdf">slides</a></li>
+	      <li>The visual pathway: <a href="https://web.microsoftstream.com/video/f07d3f8a-8825-46e6-9b75-397c7318b524">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video2.pdf">slides</a></li>
+	      <li>Retina: <a href="https://web.microsoftstream.com/video/5bc40aa5-6cb4-42de-b8ef-7679bf1e949f">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video3.pdf">slides</a></li>
+	      <li>V1 and the cortical microcircuit: <a href="https://web.microsoftstream.com/video/e09a87fb-02d4-44ad-8e26-e53be1e86477">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video4.pdf">slides</a></li>
+	      <li>Topographic maps and sparse coding: <a href="https://web.microsoftstream.com/video/62cf3f4a-be00-4c6c-96fb-15b81fedda3d">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_6/slides/week6_video5.pdf">slides</a></li>
+	      <li>QA: <a href="https://web.microsoftstream.com/video/10cc0be0-5be3-4856-aa1b-68c0a2e42dc2">video</a></li>
+	    </ul>
+		
+	    <h2 style="color: darkslategrey">Week 7 - LA - Hippocampus + Hopfield networks</h2>
+	    <ul>
+	      <li>The Hippocampus and long-term memory <a href="https://web.microsoftstream.com/video/b39f509b-5a6e-4ae9-af2f-da97aa49f216">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video1.pdf">slides</a></li>
+	      <li>The Hippocampus and spatial navigation <a href="https://web.microsoftstream.com/video/e01e9a62-45bb-4535-a62a-6ffda3e852b4">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video2.pdf">slides</a></li>
+	      <li>Pattern Separation <a href="https://web.microsoftstream.com/video/35b003c6-ddf5-4f1c-80d9-b5a8d20a7b26">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video3.pdf">slides</a></li>
+	      <li>Hopfield networks (discrete attractors) <a href="https://web.microsoftstream.com/video/cdecb5e5-3acf-4029-b46a-db5c2f6f07fc">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video4.pdf">slides</a></li>
+	      <li>Continuous attractors and navigation <a href="https://web.microsoftstream.com/video/6a2bbc12-30d6-41a2-a208-0d07dd4f8d7e">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_5/slides/week5_video5.pdf">slides</a></li>
+	      <li>QA <a href="https://web.microsoftstream.com/video/253bb87e-2f0d-4a8b-b637-901199bd5c3c">video</a></li>
+	    </ul>
+		
+	    <h2 style="color: darkslategrey">Week 8 - LA - the basal ganlia and reinforcement learning</h2>
+	    <ul>
+	      <li>Supervised learning using the delta rule <a href="https://web.microsoftstream.com/video/a96a2f5f-76d4-49d0-a5b0-4c815def4dc3">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video1.pdf">slides</a></li>
+	      <li>Cerebellar anatomy, function and microstructure <a href="https://web.microsoftstream.com/video/80a2af00-b165-4c2a-81ee-082fd902cd7e">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video2.pdf">slides</a></li>
+	      <li>Classical conditioning <a href="https://web.microsoftstream.com/video/50c2445b-3519-45b6-9b60-318adcde69a9">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video3.pdf">slides</a></li>
+	      <li>Temporal difference learning and dopamine <a href="https://web.microsoftstream.com/video/ec61e42d-4018-474f-8918-03b79e049c24">video</a> <a href="https://github.com/cs-uob/COMS30017/blob/master/week_7/slides/week7_video4.pdf">slides</a></li>
+	    </ul>
+		   		    
+		    
+	    <h2 style="color: darkslategrey">Week 9 - CH - the Bayesian brain 1</h2>
+	    <ul>
+	      <li><b>notes</b>: The Bayesian Brain. <a href="https://github.com/comsm0094/2021_22/blob/master/09_Bayesian_brain_1/09.Bayesian.pdf">09.Bayesian.pdf</a></li>
+	      <li><b>lecture</b>: The Bayesian Brain lecture 1. <a href="https://web.microsoftstream.com/video/48bb9d5e-e985-447c-93eb-29ab290cdcb9">streams</a></li>
+	      <li><b>related notes</b>: these are some undergraduate notes on Bayes's theorem if you would like to be reminded of it. <a href="https://github.com/coms10011/2021_22/blob/master/03_bayes/3_bayes.pdf">3_bayes.pdf</a></li>
+	      <li><b>lecture</b>: The Bayesian Brain lecture 2. <a href="https://web.microsoftstream.com/video/144609af-a223-44d1-9c31-dbef961e547c">streams</a></li>
+</ul>		    
+	    <h2 style="color: darkslategrey">Week 10 - CH - the Bayesian brain 2</h2>
+	    <ul>
+	      <li><b>notes</b>: The Kalman Filter. <a href="https://github.com/comsm0094/2021_22/blob/master/10_Bayesian_brain_2/10.Kalman.pdf">10.Kalman.pdf</a></li>
+	      <li><b>lecture from last year</b>: <a href="https://www.youtube.com/watch?v=td7CAaW0FIM">youtube</a> (32 minutes)</li>
+	      <li>A new lecture is on the way!</a></li>
+	      
+	    </ul>
+
+
+	    <h2 style="color: darkslategrey">Worksheets</h2>
+	    <ul>
+	      <li> Worksheet 1: integrate and fire. <a href="https://github.com/comsm0094/2021_22/blob/master/Worksheets/worksheet1.pdf">worksheet1.pdf</a></li>
+	      <li> Worksheet 2: FitzHugh-Nagumo model. <a href="https://github.com/comsm0094/2021_22/blob/master/Worksheets/worksheet2.pdf">worksheet2.pdf</a></li>
+	      <li> Worksheet 3: synapses. <a href="https://github.com/comsm0094/2021_22/blob/master/Worksheets/worksheet3.pdf">worksheet3.pdf</a></li>
+              <li> Worksheet 4: plasticity <a href="https://github.com/cs-uob/COMS30017/blob/master/Week_4/Week4-ProblemSheet.pdf">worksheet4</a></li>
+	      <li> Worksheet 5: visual system + rate coding <a href="https://github.com/cs-uob/COMS30017/blob/master/week_6/problem_sheet_week6.pdf"> worksheet5</a></li>
+	      <li> Worksheet 6: Hippocampus + Hopfield networks <a href="https://github.com/cs-uob/COMS30017/blob/master/week_5/problem_sheet_week5.pdf"> worksheet6</a></li>
+	      <li> Worksheet 7: the basal ganlia and reinforcement learning <a href="https://github.com/cs-uob/COMS30017/blob/master/week_7/problem_sheet_week7.pdf"> worksheet7 </a></li>
+	      <li> Worksheet 8: revise Bayes's rule. <a href="https://github.com/comsm0094/2021_22/blob/master/Worksheets/worksheet8.pdf">worksheet8.pdf</a></li>
+	    </ul>
+
+</body>
+</html>
+
